@@ -4,7 +4,7 @@ public class SalesData {
 	void display()
 	{
 		
-		System.out.println("Hello Saless...");
+		System.out.println("Hello Saleseeeeees...");
 	}
 
 }
